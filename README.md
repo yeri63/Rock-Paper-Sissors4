@@ -1,2 +1,2 @@
-# Rock-Paper-Sissors4
+# Rock Paper Sissors
 Try your hand beating your opponent on the calculator.
