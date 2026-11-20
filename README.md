@@ -24,7 +24,7 @@
 
 Notes:
 
-1. Start the program by pressing the P1 button. The display will flash "Rock", "Paper", "Sissors". Press P1 for Rock, P2 for Paper, and P3 for Sissors. The computer will pick one, and then compare to yours, showing the result on the screen. Afterwards, the screen will display "##:##", showing the current number of wins, yours vs. the computer. Try to see who gets to 10 first!
+1. Start the program by pressing the P1 button. The display will flash "Rock", "Paper", "Sissors". Press P1 for Rock, P2 for Paper, or P3 for Sissors. The computer will pick one, and then compare to yours, showing the result on the screen. Afterwards, the screen will display "##:##", showing the current number of wins, yours vs. the computer. Try to see who gets to 10 first!
 
 2. The hand gesters used to represent the items in the game are a closed fist (rock), flat hand (paper), and peace sign pointed horizontally (sissors).
   
